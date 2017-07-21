@@ -1,3 +1,3 @@
-# unimelb
+# NimGame
 project C: NimGame
 
